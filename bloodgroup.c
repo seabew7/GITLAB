@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 void main()
+<<<<<<< HEAD
 { char Name[50], G[30], answer[10];
+=======
+{ char Name[45], G[10], answer[15];
+>>>>>>> 0d752fe71f67faeedea57fcd1fb25dc90e3db863
   int i;
   do
   {
